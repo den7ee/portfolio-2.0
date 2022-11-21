@@ -1,0 +1,38 @@
+body {
+    background: #f7f7f7;
+    font-family: "Gill Sans", sans-serif;
+    max-width: 700px;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .perfil{
+    border-radius: 50%;
+    margin-top: 40px;
+  }
+  
+  #title, .subtitle, .post_title .contato{
+    color: #505050;
+  }
+  
+  #title {
+    font-size: 30px;
+    text-transform: uppercase;
+  }
+  
+  .post_title {
+    margin-top: -15px;
+    font-size: 16px;
+    font-style: italic;
+  }
+  
+  .contato{
+    margin-top: 50px;
+    font-size: 16px;
+    font-style: italic;
+    margin-bottom: -25px;
+  }
+  
+  a{
+    padding: 10px;
+  }
